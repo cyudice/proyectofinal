@@ -1,0 +1,74 @@
+
+
+.navbar{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0); 
+    width: 100%;
+    margin-top: 0;
+    
+}
+
+.btn-cualquiera{
+
+    border: none;
+    background-color: brown;
+    color: white;
+    padding: 20px;
+    margin: 50px;
+    border-radius: 10px;
+}
+
+.btn-cualquiera:hover{
+
+    background-color: rgb(94, 5, 5);
+}
+.text-center{
+
+    margin-top: 50px;
+}
+
+.contenido p{
+
+    margin-bottom: 70px;
+}
+
+
+
+.accordion{
+
+    margin-top: 70px;
+}
+
+.accordion-body p{
+
+    margin-top: 50px;
+}
+
+.contenido{
+    
+background-color: rgb(255, 255, 255);
+color: rgb(0, 0, 0);
+text-align: center;
+}
+
+ol{
+
+    list-style: none;
+}
+
+.accordion-body h4{
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+footer{
+
+    padding: 20px;
+    height: 50px;
+}
+
+.btn a{
+    text-decoration: none;
+}
